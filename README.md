@@ -1,11 +1,11 @@
 <h1 align="center"> Привет всем, меня зовут Людмила! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h2>Обо мне:</h2>
+<h3>Обо мне:</h3>
 <h3>Я начинающий Front-end разработчик.</h3> 
-<h3>Успешно окончила курсы от HTML Academy "HTML и CSS. Адаптивная вёрстка и автоматизация" и "JavaScript. Профессиональная разработка веб-интерфейсов", а также курс от Яндекс Практикума "React-разработчик"  </h3>
-<h3>На данный момент нахожусь в активном поиске работы.</h3>
+<p>Успешно окончила курсы от HTML Academy "HTML и CSS. Адаптивная вёрстка и автоматизация" и "JavaScript. Профессиональная разработка веб-интерфейсов", а также курс от Яндекс Практикума "React-разработчик"  </p>
+<p>На данный момент нахожусь в активном поиске работы.</p>
 
- <h2>Мой стек технологий:</h2>
+	:hammer: <h3>Мой стек технологий:</h3>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
