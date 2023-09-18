@@ -21,7 +21,7 @@
 </div>
 
 <p>Telegram: 
- <a href="@LiudmilaPopova93">@LiudmilaPopova93</a>
+ <a href="telegramto:@LiudmilaPopova93">@LiudmilaPopova93</a>
 </p>
-<p>E-mail: <a href="plyudmilka@mail.ru">plyudmilka@mail.ru</a> </p>
+<p>E-mail: <a href="mailto:plyudmilka@mail.ru">plyudmilka@mail.ru</a> </p>
 
