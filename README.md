@@ -23,8 +23,9 @@
 <br>
 <br>
 
-<p>Telegram: 
- <a href="https://telegram.im/@LiudmilaPopova93" target="_blank">@LiudmilaPopova93</a>
-</p>
-<p>E-mail: <a href="mailto:plyudmilka@mail.ru">plyudmilka@mail.ru</a> </p>
+<p>
+ <span>Telegram: </span>
+  <a href="https://telegram.im/@LiudmilaPopova93" target="_blank">@LiudmilaPopova93</a> <br>
+
+<span>E-mail:</span> <a href="mailto:plyudmilka@mail.ru">plyudmilka@mail.ru</a> </p>
 
