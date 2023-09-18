@@ -2,7 +2,7 @@
 
 <h3>👩‍💻Обо мне:</h3>
 
-<p>Я начинающий Front-end разработчик.</p> 
+<p font-size="14px">Я начинающий Front-end разработчик.</p> 
 <p>Успешно окончила курсы от HTML Academy "HTML и CSS. Адаптивная вёрстка и автоматизация" и "JavaScript. Профессиональная разработка веб-интерфейсов", а также курс от Яндекс Практикума "React-разработчик"  </p>
 <p>На данный момент нахожусь в активном поиске работы.</p>
 
@@ -20,6 +20,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p>Telegram: @LiudmilaPopova93</p>
-<p>E-mail: plyudmilka@mail.ru</p>
+<p>Telegram: 
+ <a href="@LiudmilaPopova93">@LiudmilaPopova93</a>
+</p>
+<p>E-mail: <a href="plyudmilka@mail.ru">plyudmilka@mail.ru</a> </p>
 
